@@ -1,2 +1,2 @@
 # Test
-![Screenshot](Test/test.jpg)
+![Screenshot](../test.jpg)
