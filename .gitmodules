@@ -1,3 +1,6 @@
 [submodule "testing"]
 	path = testing
 	url = https://github.com/vinayak205/test1
+[submodule "test2"]
+	path = test2
+	url = git@github.com:vinayak205/test1.git
